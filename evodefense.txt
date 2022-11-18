@@ -11,3 +11,5 @@ Dont spam me!<!-- slightdelayhere-->, but feel free to send me an email at<!-- l
 
 <p>G00dby3</p>
 
+<img src="https://tryhackme.com/badge/922609:></script>
+
